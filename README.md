@@ -1,5 +1,5 @@
-# udacity_intro_to_algorithms
-Intro to Algorithms http://udacity.com
+# Intro to Algorithms http://udacity.com
+## udacity_intro_to_algorithms
 
 - Lesson 1: A social network magic trick.
 - Introduction
@@ -7,3 +7,9 @@ Intro to Algorithms http://udacity.com
 - Quiz: Eulerian Path - if only two or none vertexes with odd degree exist,
     there is and eulerian path.
 - Algorithms are cool
+- Quiz: Case Study
+-- Need for Mathematics
+-- 1. Formalize what you are doing
+-- 2. Analyze correctness
+-- 3. Analyze efficiensy
+- Correctness: Naive
