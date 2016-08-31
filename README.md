@@ -1,4 +1,4 @@
-# [Intro to Algorithms by Udacity](https://classroom.udacity.com/courses/cs215)
+# [**Intro to Algorithms** by _Udacity_](https://classroom.udacity.com/courses/cs215)
 ## udacity_intro_to_algorithms
 
 - Lesson 1: A social network magic trick.
