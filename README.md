@@ -10,7 +10,8 @@
 * Quiz: Eulerian Path - if only two or none vertexes with odd degree exist,
     there is and eulerian path.
 * Algorithms are cool
-* Quiz: Case study, need for Mathematics
+* Quiz: Case study
+  Need for Mathematics:
   1. Formalize what you are doing
   2. Analyze correctness
   3. Analyze efficiensy
