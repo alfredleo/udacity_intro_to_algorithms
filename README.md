@@ -1,7 +1,7 @@
 # [_Intro to Algorithms_ by Udacity](https://classroom.udacity.com/courses/cs215)
 ## udacity_intro_to_algorithms
 
-![Udacity logo](http://mamuna.com/system/logos/2141/normal/udacity_logo.png)
+![Udacity logo](http://static1.squarespace.com/static/54a21086e4b097c5f1550ed8/557eee11e4b0c3993def002b/5702ac9ab6aa607cbb96e59e/1459793150043/udacity_logo_2.png)
 
 - Lesson 1: A social network magic trick.
 - Introduction
