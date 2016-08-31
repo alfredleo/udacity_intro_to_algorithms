@@ -11,7 +11,7 @@
     there is and eulerian path.
 * Algorithms are cool
 * Quiz: Case study
-  Need for Mathematics:
+   Need for Mathematics:
   1. Formalize what you are doing
   2. Analyze correctness
   3. Analyze efficiensy
